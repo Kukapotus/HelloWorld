@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lehas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lehas\\.nuget\\packages"
+    ]
+  }
+}
